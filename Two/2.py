@@ -6,6 +6,7 @@ def fib(n):
         print 'end of the line'
         return 1
 
+# testing modular
 if __name__=='__main__':
     for i in xrange(10):
         print '*'*40
